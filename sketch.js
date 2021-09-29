@@ -1,4 +1,5 @@
-var PLAY = 1;
+var PLAY = 1
+;
 var END = 0;
 var gameState = PLAY;
 
